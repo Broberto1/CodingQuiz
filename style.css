@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+#score {
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+
+#timer {
+    width: 50%; 
+    float: left;
+    text-align: right;
+}
+
+button {
+  padding: 10px;
+  font-size: 24px;
+  background-color: purple;
+}
+
+#answers button {
+    display: block;
+    margin: 10px;
+}
